@@ -1,0 +1,26 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 192px;
+}
+
+.hero-content {
+    margin-right: 109px;  
+}
+
+.hero-content__text {
+    font-size: 21px;
+    line-height: 1.52;
+    font-weight: 300;
+    color: #7d7987;
+    margin-bottom: 45px;
+}
+
+.hero-content__title {
+    font-size: 48px;
+    line-height: 1.17;
+    font-weight: 700;
+    color: #000000;
+    margin-bottom: 25px;
+}
